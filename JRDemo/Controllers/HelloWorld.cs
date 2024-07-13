@@ -8,7 +8,7 @@ public class HelloWorldController : Controller
 	[HttpGet("/hello")]
 	public IActionResult GetHelloWorld()
 	{
-		return Ok("Hello, World!");
+		return Ok("Hello, World Patrick!");
 	}
 }
 
