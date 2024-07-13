@@ -1,0 +1,6 @@
+@JRDemo_HostAddress = http://localhost:5152
+
+GET {{JRDemo_HostAddress}}/hello/
+Accept: application/json
+
+###
